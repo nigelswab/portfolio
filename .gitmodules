@@ -1,3 +1,21 @@
-[submodule "themes/hugo-story"]
-	path = themes/hugo-story
+[submodule "themes/portfolio-custom/themes/hugo-story"]
+	path = themes/portfolio-custom/themes/hugo-story
 	url = https://github.com/caressofsteel/hugo-story.git
+[submodule "themes/portfolio-custom/themes/toha"]
+	path = themes/portfolio-custom/themes/toha
+	url = https://github.com/hugo-toha/toha.git
+[submodule "themes/portfolio-custom/themes/timer-hugo"]
+	path = themes/portfolio-custom/themes/timer-hugo
+	url = https://github.com/themefisher/timer-hugo.git
+[submodule "themes/portfolio-custom/themes/infinity-hugo"]
+	path = themes/portfolio-custom/themes/infinity-hugo
+	url = https://github.com/gethugothemes/infinity-hugo.git
+[submodule "themes/portfolio-custom/themes/meghna-hugo"]
+	path = themes/portfolio-custom/themes/meghna-hugo
+	url = https://github.com/themefisher/meghna-hugo.git
+[submodule "themes/portfolio-custom/themes/academia-hugo"]
+	path = themes/portfolio-custom/themes/academia-hugo
+	url = https://github.com/themefisher/academia-hugo.git
+[submodule "themes/portfolio-custom/themes/navigator-hugo"]
+	path = themes/portfolio-custom/themes/navigator-hugo
+	url = https://github.com/gethugothemes/navigator-hugo.git
